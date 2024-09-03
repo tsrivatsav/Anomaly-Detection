@@ -9,8 +9,7 @@ This project aims to apply various anomaly detection techniques to detect outlie
 * K-Means
 * Local Outlier Factor
 * Angle-Based Outlier Detection
-
-This analysis could be extended to autoencoders, gaussian mixture models, ARIMA, LSTM, and Prophet. 
+* Autoencoder
 
 ## Usage:
 * Python 3.9 -> see `requirements.txt` for dependencies
