@@ -13,7 +13,7 @@ This project aims to apply various anomaly detection techniques to detect outlie
 This analysis could be extended to autoencoders, gaussian mixture models, ARIMA, LSTM, and Prophet. 
 
 ## Usage:
-* Python 3.9 -> see requirements.txt for dependencies
+* Python 3.9 -> see `requirements.txt` for dependencies
 * See `data_preprocessing.ipynb` for EDA
 * Run each Jupyter notebook individually
 

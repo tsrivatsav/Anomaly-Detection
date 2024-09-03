@@ -1,7 +1,8 @@
-pandas
-numpy
 matplotlib
-yfinance
+numpy
+pandas
 scikit-learn
 scipy
 seaborn
+tensorflow
+yfinance
