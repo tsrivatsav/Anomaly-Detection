@@ -10,6 +10,7 @@ This project aims to apply various anomaly detection techniques to detect outlie
 * Local Outlier Factor
 * Angle-Based Outlier Detection
 * Autoencoder
+* LSTM
 
 ## Usage:
 * Python 3.9 -> see `requirements.txt` for dependencies
